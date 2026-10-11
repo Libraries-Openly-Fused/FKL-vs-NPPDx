@@ -1,5 +1,10 @@
 # FKL vs NPPDx
 
+> **Moved.** This benchmark now lives in [`fkl-vs-nppdx/`](https://github.com/Libraries-Openly-Fused/bvf-paper-bench/tree/main/fkl-vs-nppdx)
+> of [bvf-paper-bench](https://github.com/Libraries-Openly-Fused/bvf-paper-bench), with this repository's history,
+> next to the other benchmarks of the Backwards Vertical Fusion paper. This repository is archived and no longer
+> updated.
+
 Benchmarks comparing the [Fused Kernel Library (FKL)](https://github.com/Libraries-Openly-Fused/FusedKernelLibrary)
 and NVIDIA [NPPDx](https://github.com/NVIDIA/NPPDx) on the image preprocessing pipeline of the Backwards Vertical
 Fusion paper (Figure 1):
